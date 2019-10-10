@@ -7,7 +7,7 @@ The project is fully documented at...
 
 Instructables: https://www.instructables.com/id/1970-Flirt-Pi-Internet-Radio
 
-Hackster:
+Hackster: https://www.hackster.io/martin-mander/1970-flirt-pi-internet-radio-6f6fea
 
 YouTube: https://youtu.be/d2tF_ky-CLA
 
