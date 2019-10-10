@@ -6,8 +6,10 @@ The Flirt Pi is a simple, portable Raspberry Pi internet radio, that plays Soma 
 The project is fully documented at...
 
 Instructables:
+
 Hackster:
-YouTube:
+
+YouTube: https://youtu.be/d2tF_ky-CLA
 
 ...and all of my other projects are online at:
 
